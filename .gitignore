@@ -8,6 +8,12 @@
 # testing
 /coverage
 
+# IDEs and editors
+/.idea
+\.idea
+\.vscode
+/.vscode
+
 # production
 /out
 
